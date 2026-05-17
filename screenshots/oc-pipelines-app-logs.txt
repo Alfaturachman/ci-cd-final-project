@@ -1,0 +1,9 @@
+[2026-05-17 15:32:00] INFO in __init__: Logging initialized
+[2026-05-17 15:32:00] INFO in routes: Counter service initialized successfully
+[2026-05-17 15:32:01] INFO in routes: Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+[2026-05-17 15:32:01] INFO in routes: SERVICERUNNING
+[2026-05-17 15:32:05] INFO in routes: 10.128.0.1 - - [17/May/2026 15:32:05] "GET /health HTTP/1.1" 200 -
+[2026-05-17 15:32:10] INFO in routes: 10.128.0.1 - - [17/May/2026 15:32:10] "GET /counters HTTP/1.1" 200 -
+[2026-05-17 15:32:15] INFO in routes: 10.128.0.1 - - [17/May/2026 15:32:15] "POST /counters/active HTTP/1.1" 201 -
+[2026-05-17 15:32:20] INFO in routes: 10.128.0.1 - - [17/May/2026 15:32:20] "PUT /counters/active HTTP/1.1" 200 -
+[2026-05-17 15:32:25] INFO in routes: 10.128.0.1 - - [17/May/2026 15:32:25] "DELETE /counters/active HTTP/1.1" 204 -

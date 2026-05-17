@@ -330,7 +330,7 @@ To ensure automated tools and peers can successfully evaluate your work, name yo
 
 - **IBM Skills Network** (Original Template & Scenario)
 - **Alima Akhter** (Contributor)
-- **You** (As the practitioner completing this assignment)
+- **Alfaturachman** (As the practitioner completing this assignment)
 
 ---
 
